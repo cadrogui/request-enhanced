@@ -16,9 +16,9 @@
     "regex",
     "file"
   ],
-  "dependencies" : {
-    "request" : "2.12.0",
-    "heap"    : "0.2.1"
+  "dependencies": {
+    "request": "2.50.0",
+    "heap": "0.2.1"
   },
   "license": "MIT",
   "engines": {
